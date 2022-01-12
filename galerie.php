@@ -10,13 +10,13 @@
 </head>
 <body>
 <nav class= "navbar">
-        <ul class= "menu">
-            <li><a href="index.php">Accueil</a></li>
-            <li><a href="galerie.php">Galerie</a></li>
-            <li><a href="liens.php">Liens</a></li>
-            <li><a href="cv.php">Curriculum Vitae</a></li>
-            <li><a href="tutoriels.php">Tutoriels</a></li>
-            <li><a href="contact.php">Contact</a></li>
+<ul class= "menu">
+            <li><a href="index.php?page=index">Accueil</a></li>
+            <li><a href="index.php?page=galerie">Galerie</a></li>
+            <li><a href="index.php?page=liens">Liens</a></li>
+            <li><a href="index.php?page=cv">Curriculum Vitae</a></li>
+            <li><a href="index.php?page=tutoriels">Tutoriels</a></li>
+            <li><a href="index.php?page=contact">Contact</a></li>
         </ul>
     </nav>
     <main class="mainGalerie">
